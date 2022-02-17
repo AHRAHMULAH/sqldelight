@@ -2,7 +2,7 @@
 kotlin = "1.6.10"
 dokka = "1.6.10"
 kotlinCoroutines = "1.6.0"
-idea = "202.8194.7"
+idea = "213.6777.52"
 androidxSqlite = "2.2.0"
 schemaCrawler = "14.16.04.01-java7"
 stately = "1.2.1"
